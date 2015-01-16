@@ -1,0 +1,13 @@
+[package]
+name = "kalman"
+version = "0.0.1"
+authors = ["jakubkonka <jakub.konka@strath.ac.uk>"]
+
+[lib]
+name = "kalman"
+path = "src/lib.rs"
+
+[[bin]]
+name = "timeseries"
+path = "examples/timeseries.rs"
+
