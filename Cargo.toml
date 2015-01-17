@@ -8,6 +8,6 @@ name = "kalman"
 path = "src/lib.rs"
 
 [[bin]]
-name = "timeseries"
-path = "examples/timeseries.rs"
+name = "1dkalman"
+path = "examples/1dkalman.rs"
 
